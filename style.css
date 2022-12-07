@@ -1,0 +1,40 @@
+h1 {
+    font-size: 25px;
+    margin-left: 500px;
+    color:darkviolet;
+ }
+
+table {
+    margin-left: 300px;
+	table-layout:fixed; 
+    width: 700px;
+    height: 100px;
+}
+
+td {
+    width: 70px;
+    height: 40px;
+    font-size: 17px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.hat {
+    background-color:darkviolet;
+    color:aliceblue;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.value {
+    background-color:lightcoral;
+    font-weight: bolder;
+}
+
+.cell1 {
+    background-color: tomato;
+}
+
+.cell2 {
+    background-color: springgreen;
+}
